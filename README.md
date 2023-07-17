@@ -18,3 +18,5 @@ The "Customer Behavior" dataset consists of customer information, including age,
 
 https://github.com/Riddhimasalkar/-Exploratory-Data-Analysis/edit/main/README.md
 cd EDA-Customer-Behavior
+Conclusion:
+The Exploratory Data Analysis project provides valuable insights into customer behavior using the "Customer Behavior" dataset. By performing visualizations and statistical analysis, this project helps businesses understand customer preferences and spending habits, paving the way for data-driven decision-making.
